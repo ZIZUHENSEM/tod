@@ -1,4 +1,4 @@
-# KurzBotAssistan
+# ZIZUBOT
 
 Simpel WhatsApp Bot
 
@@ -38,8 +38,8 @@ Simpel WhatsApp Bot
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6)
 
 ```
-> git clone https://github.com/KurrXd/KurzBotAssistan
-> cd KurzBotAssistan-master
+> git clone https://github.com/ZIZUHENSEM/tod
+> cd tod-master
 > npm install
 ```
 
@@ -54,5 +54,3 @@ Simpel WhatsApp Bot
 #### Powered By : [`XnxxApi`](https://xnxxapi.herokuapp.com/)
 
 #### Author / Creator : [`DcodeDenpa`](https://github.com/dcode-denpa/bitch-boot)
-
-#### Recode By : [`KurrXd`](https://youtube.com/c/KurrXd)
